@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_control_normal_holo.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_control_focused_holo.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_secondary_holo.9.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_control_pressed_holo.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_track_holo_light.9.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_primary_holo.9.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbar_scrubber_control_disabled_holo.png",
+        "source": "C:\\Users\\arjun_mu\\Downloads\\Android_CustomMediaController-master\\app\\src\\main\\res\\mipmap-hdpi\\seekbar_scrubber_control_disabled_holo.png"
+    }
+]
